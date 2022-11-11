@@ -1,1 +1,2 @@
 INDEX
+Este es el contenido de index.txt
